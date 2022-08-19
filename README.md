@@ -1,6 +1,6 @@
 <a href = "#"><img src = "https://pbs.twimg.com/media/Efw4vTuUwAAvmp6.jpg:large"></a>
 <h1 align="center">Hi 👋, I'm Ryujin Sama</h1>
-<h3 align="center">A passionate dev from India</h3>
+<h3 align="center">A passionate Web-dev from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryujin-sama&label=Profile%20views&color=0e75b6&style=flat" alt="ryujin-sama" /> </p>
 
